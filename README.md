@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @glazkovic
+- 👀 I’m interested in decentralization, p2p, crypto
+- 🌱 I’m currently learning p2p-technology
+- 💞️ I’m looking to collaborate on dweb
+- 📫 How to reach me markoglazko@gmail.com
